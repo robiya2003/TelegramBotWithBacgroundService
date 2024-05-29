@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotWithBacgroundService", "TelegramBotWithBacgroundService\TelegramBotWithBacgroundService.csproj", "{D45CB0F4-A6FA-4469-9EFD-8AC665F02C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45CB0F4-A6FA-4469-9EFD-8AC665F02C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45CB0F4-A6FA-4469-9EFD-8AC665F02C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45CB0F4-A6FA-4469-9EFD-8AC665F02C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45CB0F4-A6FA-4469-9EFD-8AC665F02C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA0AC02-8690-42BC-B52D-C3B28D144AA1}
+	EndGlobalSection
+EndGlobal
